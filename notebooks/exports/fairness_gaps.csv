@@ -1,0 +1,6 @@
+group,metric,max-min
+gender,selection_rate,0.0630081300813008
+gender,TPR,0.132956152758133
+gender,FPR,0.0
+gender,AUC,0.0
+gender,pos_rate_true,0.07668067226890751
