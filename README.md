@@ -2,7 +2,7 @@
 
 ## 🌟 Projektübersicht
 
-Dieses Projekt untersucht mögliche **Biases** in Lebensläufen (Resumes), insbesondere solche, die auf Geschlecht, Ausdrucksweise oder Stil basieren könnten — mit Fokus auf Rollen im Bereich Data Science. Ziel ist es, systematische Muster zu erkennen, die in automatisierten Auswahlverfahren zu Verzerrungen führen könnten, und Handlungsempfehlungen ableiten zu können.
+Dieses Projekt untersucht mögliche **Biases** in Lebensläufen (Resumes), insbesondere solche, die auf Geschlecht, Ausdrucksweise oder Stil basieren könnten, mit Fokus auf Rollen im Bereich Data Science. Ziel ist es, systematische Muster zu erkennen, die in automatisierten Auswahlverfahren zu Verzerrungen führen könnten, und Handlungsempfehlungen ableiten zu können.
 
 ---
 
